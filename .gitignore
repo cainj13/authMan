@@ -1,0 +1,19 @@
+# IntelliJ
+*.iml
+.idea/
+
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+gradle-app.setting
+
+# Java
+*.class
+*.jar
+*.war
+
+# JD-GUI
+*.cfg
